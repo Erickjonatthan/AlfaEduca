@@ -1,4 +1,11 @@
 # AlfaEduca
+Link dos repositórios Oficiais do AlfaEduca (Aplicativo, Web, Backend)
+
+https://github.com/Erickjonatthan/alfa-educa-app
+
+https://github.com/Erickjonatthan/alfa-educa-web
+
+https://github.com/Erickjonatthan/alfa-educa-server
 
 Bem-vindo ao AlfaEduca, o aplicativo interativo de alfabetização! O AlfaEduca foi desenvolvido para auxiliar no processo de aprendizado de jovens e adultos, especialmente do público EJA (Educação de Jovens e Adultos), utilizando atividades práticas e adaptadas para diferentes perfis de usuários.
 
